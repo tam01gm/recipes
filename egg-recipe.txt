@@ -1,0 +1,7 @@
+Ingredients:
+ - 1 egg
+
+Directions:
+  1. Boil water.
+  2. Put egg in water
+  3. Wait 5 min
